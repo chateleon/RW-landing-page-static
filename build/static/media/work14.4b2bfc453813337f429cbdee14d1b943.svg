@@ -1,0 +1,45 @@
+<svg id="Group_599" data-name="Group 599" xmlns="http://www.w3.org/2000/svg" width="212.89" height="48.72" viewBox="0 0 212.89 48.72">
+  <g id="Group_60" data-name="Group 60" transform="translate(1.699 0)">
+    <path id="Union_7" data-name="Union 7" d="M0,3.515A3.515,3.515,0,0,1,6.556,1.752H16.4V5.277H6.556A3.515,3.515,0,0,1,0,3.515Z" transform="translate(0 11.675)" fill="#f7f8ff"/>
+    <path id="Union_6" data-name="Union 6" d="M10.07,45.205a3.513,3.513,0,0,1,1.752-3.041V39.888H2.291V7.725H2.3a4.064,4.064,0,1,1,3.518.007V36.363h9.531v5.8a3.515,3.515,0,1,1-5.277,3.042Z" transform="translate(12.118)" fill="#f7f8ff"/>
+  </g>
+  <path id="Subtraction_30" data-name="Subtraction 30" d="M2.493,12.258h0L0,9.768,9.767,0h4.983L3.476,11.276l-.813-.886v1.7l-.17.17Z" transform="translate(198.14 9.665)" fill="#f7f8ff"/>
+  <path id="Subtraction_31" data-name="Subtraction 31" d="M14.751,12.258H9.767L0,2.493,2.493,0,3.1.61V2.286l.825-.85L14.75,12.256Z" transform="translate(197.701 14.542)" fill="#f7f8ff"/>
+  <g id="Group_76" data-name="Group 76" transform="translate(135.36 7.229)">
+    <g id="Group_52" data-name="Group 52" transform="translate(26.075 2.436)">
+      <path id="Subtraction_15" data-name="Subtraction 15" d="M19.2,17.135H15.346L9.6,4.235l-5.743,12.9H0L7.629,0h3.946L19.2,17.135Z" transform="translate(0 0)" fill="#f7f8ff"/>
+      <rect id="Rectangle_65" data-name="Rectangle 65" width="3.525" height="10.765" transform="translate(15.295 7.996) rotate(90)" fill="#f7f8ff"/>
+    </g>
+    <path id="Union_3" data-name="Union 3" d="M.318,17.135v-.029H0V0H3.525V13.61H13.07v3.525Z" transform="translate(46.937 0)" fill="#f7f8ff"/>
+    <g id="Group_62" data-name="Group 62" transform="translate(61.924 2.436)">
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="3.525" height="17.135" fill="#f7f8ff"/>
+    </g>
+    <g id="Group_68" data-name="Group 68" transform="translate(0 2.614)">
+      <g id="Group_64" data-name="Group 64">
+        <path id="Path_253" data-name="Path 253" d="M0,0H3.525V8.146H0Z" transform="translate(0 8.811)" fill="#f7f8ff"/>
+        <path id="Path_263" data-name="Path 263" d="M3.525,0H0V16.957H3.525Z" transform="translate(20.299)" fill="#f7f8ff"/>
+        <rect id="Rectangle_242" data-name="Rectangle 242" width="3.517" height="16.695" transform="translate(3.483 16.957) rotate(-140)" fill="#f7f8ff"/>
+        <rect id="Rectangle_246" data-name="Rectangle 246" width="3.517" height="16.695" transform="translate(9.609 4.168) rotate(-40)" fill="#f7f8ff"/>
+      </g>
+      <path id="Path_259" data-name="Path 259" d="M-.307,0,2.069,2.987H-2.646Z" transform="translate(12.279 1.36)" fill="#f7f8ff"/>
+    </g>
+  </g>
+  <g id="Group_77" data-name="Group 77" transform="translate(0 0.659)">
+    <path id="Union_28" data-name="Union 28" d="M3.608,19.971v0H0V16.441H3.608V0H7.133V.01l.006,0,9.733,11.6V0H20.4V17.135H16.872v-.061h0L7.133,5.469v14.5Z" transform="translate(54.518 6.141)" fill="#f7f8ff"/>
+    <path id="Union_29" data-name="Union 29" d="M0,27.439a3.515,3.515,0,0,1,6.556-1.762H25.395V0h7.133V3.525H28.919v8.767h3.608v.01a4.393,4.393,0,1,0,0-8.787V0a7.91,7.91,0,0,1,2.321,15.471L41.9,23.876l-2.7,2.266L30.538,15.817H28.919V29.2H6.556A3.515,3.515,0,0,1,0,27.439Z" fill="#f7f8ff"/>
+    <g id="Group_56" data-name="Group 56" transform="translate(39.118 8.972)">
+      <path id="Subtraction_15-2" data-name="Subtraction 15" d="M19.2,17.135H15.346L9.6,4.235l-5.743,12.9H0L7.629,0h3.946L19.2,17.135Z" transform="translate(0 0)" fill="#f7f8ff"/>
+      <rect id="Rectangle_65-2" data-name="Rectangle 65" width="3.525" height="10.106" transform="translate(14.636 7.996) rotate(90)" fill="#f7f8ff"/>
+    </g>
+    <path id="Union_27" data-name="Union 27" d="M7.785,17.165H4.26V3.525H0V0H7.785V.019h5.042V0q.291,0,.577.019h.082V.025a8.56,8.56,0,0,1,7.908,8.543,8.561,8.561,0,0,1-8.567,8.567v.03Zm0-3.526h5.042v-.052a5.021,5.021,0,1,0,0-10.042H7.785Z" transform="translate(74.083 8.977)" fill="#f7f8ff"/>
+    <g id="Group_59" data-name="Group 59" transform="translate(96.729 7.066)">
+      <path id="Subtraction_22" data-name="Subtraction 22" d="M16.211,16.211H0V0H16.211V16.211ZM3.5,3.5v9.2h9.2V3.5Z" transform="translate(0 0)" fill="#f7f8ff"/>
+    </g>
+    <g id="Group_65" data-name="Group 65" transform="translate(115.05 9.007)">
+      <rect id="Rectangle_247" data-name="Rectangle 247" width="3.525" height="17.135" transform="translate(0 0)" fill="#f7f8ff"/>
+      <rect id="Rectangle_248" data-name="Rectangle 248" width="3.525" height="8.567" transform="translate(20.305 0)" fill="#f7f8ff"/>
+      <path id="Subtraction_29" data-name="Subtraction 29" d="M11.079,15.465,0,2.261,2.694,0,13.377,12.731l-2.3,2.733Z" transform="translate(0.809 0)" fill="#f7f8ff"/>
+      <path id="Subtraction_28" data-name="Subtraction 28" d="M2.3,15.458h0L0,12.724,10.677,0l2.694,2.261L2.3,15.457Z" transform="translate(9.587 0)" fill="#f7f8ff"/>
+    </g>
+  </g>
+</svg>
